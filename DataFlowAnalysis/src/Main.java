@@ -12,7 +12,7 @@ public class Main {
 		WriteFile writefile=new WriteFile();
 		LineClassify lineclassify=new LineClassify();
 		
-		String path="G:\\Դ\\apps_f-g_135";
+		String path="";
 		String path_copy=path;
 		//String Filename=path+"\\a2dp.Vol_93_src\\src\\a2dp\\Vol\\AppChooser.java";
 		
